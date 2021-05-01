@@ -67,7 +67,7 @@ IGTV Racing - [https://www.instagram.com/dominguezdaniel/channel/](https://www.i
 
 Project Blog - [https://dominguezdaniel.medium.com/](https://dominguezdaniel.medium.com/)
 
-Project Link: [https://github.com/dominguezdaniel/deepracer](https://github.com/dominguezdaniel/deepracer)
+Project Link - [https://github.com/dominguezdaniel/deepracer](https://github.com/dominguezdaniel/deepracer)
 
 
 
