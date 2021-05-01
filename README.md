@@ -92,15 +92,15 @@ Project Link: [https://github.com/dominguezdaniel/deepracer](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/dominguezdaniel/deepracer.svg?style=for-the-badge
 [contributors-url]: https://github.com/dominguezdaniel/deepracer/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/dominguezdaniel/deepracer.svg?style=for-the-badge
 [forks-url]: https://github.com/dominguezdaniel/deepracer/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/dominguezdaniel/deepracer.svg?style=for-the-badge
 [stars-url]: https://github.com/dominguezdaniel/deepracer/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/dominguezdaniel/deepracer.svg?style=for-the-badge
 [issues-url]: https://github.com/dominguezdaniel/deepracer/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/dominguezdaniel/deepracer.svg?style=for-the-badge
 [license-url]: https://github.com/dominguezdaniel/deepracer/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/dominguezdaniel
