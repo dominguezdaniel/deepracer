@@ -61,7 +61,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Follow me on - [@dominguezdaniel](https://twitter.com/dominguezdaniel)
+Follow me - [@dominguezdaniel](https://twitter.com/dominguezdaniel)
 
 IGTV Racing - [https://www.instagram.com/dominguezdaniel/channel/](https://www.instagram.com/dominguezdaniel/channel/)
 
